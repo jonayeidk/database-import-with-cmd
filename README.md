@@ -20,4 +20,6 @@
   
 # Step 5  
   Provide the file name \.your_database_local_path.sql.
-  use command : source \.your_database_local_path.sql
+  use command : 
+    
+      source \.your_database_local_path.sql
